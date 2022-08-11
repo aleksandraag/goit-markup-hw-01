@@ -1,5 +1,5 @@
 # goit-markup-hw-01
-
+ZADANIE DOMOWE 1 HTML/CSS
 Opis projektu: 
 Główny plik HTML ma nazwę index.html.
 W katalogu głównym projektu znajduje się folder images z obrazami.
